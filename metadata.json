@@ -1,0 +1,6 @@
+{
+  "name": "SG CarPark Live - Real-Time Singapore Carpark Lot Tracker",
+  "description": "Live tracking of carpark lot availabilities across Singapore HDB, URA, LTA, and commercial shopping centers with rates, EV charging, and distance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
